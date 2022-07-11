@@ -1,0 +1,4 @@
+name = "HasWeakDeps"
+uuid = "4d3288b3-3afc-4bb6-85f3-489fffe514c8"
+repo = "https://github.com/IanButterworth/WeakDepsExamples.git"
+subdir = "HasWeakDeps.jl"
