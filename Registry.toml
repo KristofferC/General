@@ -11,6 +11,8 @@ some amount of consideration when choosing package names.
 """
 
 [packages]
+d4ef3d4a-8e22-4710-85d8-c6cf2eb9efca = { name = "HasDepWithWeakDeps", path = "H/HasDepWithWeakDeps" }
+4d3288b3-3afc-4bb6-85f3-489fffe514c8 = { name = "HasWeakDeps", path = "H/HasWeakDeps" }
 00000000-1111-2222-3333-444444444444 = { name = "REPLTreeViews", path = "R/REPLTreeViews" }
 0004c1f4-53c5-4d43-a221-a1dac6cf6b74 = { name = "TuringGLM", path = "T/TuringGLM" }
 000eeb74-f857-587a-a816-be5685e97e75 = { name = "KCP_jll", path = "K/KCP_jll" }
